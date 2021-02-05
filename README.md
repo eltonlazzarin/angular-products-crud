@@ -127,6 +127,7 @@ Technologies that I used to develop this frontend app
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Angular/cli](https://angular.io/cli)
 
 **Clone the project and access the folder**
 
