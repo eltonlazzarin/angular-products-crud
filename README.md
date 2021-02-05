@@ -104,7 +104,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 ## 🚀 Frontend Technologies
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="" />
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/screenshots/angular-project-crud.gif" />
 </h1>
 
 Technologies that I used to develop this frontend app
