@@ -36,6 +36,10 @@
 
 ## 👨🏻‍💻 About the project
 
+<h1 align="center">
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/screenshots/angular-project-crud.gif" />
+</h1>
+
 <p>This application consists of a simple product CRUD created from my studies regarding Angular 9, so with it it is possible to list, create, update and delete products coming from a fake API.</p>
 
 ## 🚀 Backend Technologies
@@ -102,10 +106,6 @@ After your pull request is merged, you can delete your branch
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/angular-products-crud/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
-
-<h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/screenshots/angular-project-crud.gif" />
-</h1>
 
 Technologies that I used to develop this frontend app
 
