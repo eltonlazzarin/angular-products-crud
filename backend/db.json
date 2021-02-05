@@ -2,21 +2,21 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Black BIC Pen",
       "price": 5.89
     },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
+      "name": "Laptop Mac Pro",
       "price": 12000.89
     },
     {
       "id": 3,
-      "name": "Sansung S20+ Ultra",
+      "name": "Samsung S20+ Ultra",
       "price": "7520.89"
     },
     {
-      "name": "Lapis Preto Básico",
+      "name": "Black pencil",
       "price": "1.50",
       "id": 4
     }
