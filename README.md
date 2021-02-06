@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 	<img alt="Product list logo" src="https://github.com/eltonlazzarin/angular-products-crud/blob/main/frontend/src/assets/svg/checklist.svg" height="67px" width="71px" />
 </h1>
 
